@@ -1,10 +1,10 @@
 # Student Profile
-Name:nattharicha thongmee
-Student ID:69219010008
+- Name: Nattharicha Thongmee
+- Student ID: 69219010008
 
-# skill
-- programmer
+# Skill
+- Programmer
 
-# my Favorite
-- read a novel
+# My Favorite
+- Read a novel
 
